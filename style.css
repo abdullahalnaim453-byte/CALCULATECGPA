@@ -1,0 +1,160 @@
+*{
+margin: 0;
+padding: 15px;
+font-family: sans-serif;
+
+font-weight: bold;
+
+
+}
+body {
+background-color: rgb(128, 209, 210);
+background-image: url(OIP.jpg);
+
+
+
+}
+
+.header-1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    padding: 20px
+    color: red;
+}
+#course-code {
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 1%;
+    color:rgb(9, 240, 25)
+    
+}
+#course-unit {
+font-family: 20px;
+font-weight: bolder;
+margin-left: 12%;
+color:rgb(9, 240, 25)
+}
+#course-grade {
+font-size: 25px;
+font-weight: bolder;
+margin-left: .5%;
+color:rgb(9, 240, 25)
+
+}
+.container-1{
+width: 100%;
+
+height: auto;
+border: 2px solid black;
+margin: 0 auto;
+background-color: rgb(143, 64, 131);
+
+}
+.header-1{
+padding: 15px;
+color: rgb(255, 255, 255);
+font-size: 40px;
+text-align: center;
+border: 1px solid black;
+background-color: ;
+
+}
+h1 {
+    text-align: center;
+    color:rgb(246, 113, 4);
+    background-color: rgb(217, 227, 219);
+}
+
+h2{
+    color:bisque;
+padding: 20px;
+font-size: 1rem;
+
+text-align: center;
+}
+.course-div,form {
+
+padding-left: 10px;
+margin: 5px auto;
+text-align: center;
+padding: 10px;
+border-radius: 10px;
+background-color: rgb(114, 179, 125);
+
+}
+.course-div,form:hover{
+    background-color: rgb(8, 192, 118);
+    color: rgb(42, 12, 142);}
+    .get{
+        color: rgb(12, 240, 54);
+    }
+
+input{
+border: 1px;;
+padding: 15px;
+margin: 10px;
+border-radius: 5px;
+width: 20%;
+text-align:center;
+
+}
+select {
+padding: 15px;
+border: none;
+border-radius: 7.5px;
+width: 20%;
+
+}
+button {
+width: 15%;
+height: 40PX;
+padding: 1px;
+margin: 5px auto;
+border-width: .5px;
+border-radius: 5%;
+border-style: solid;
+text-align:center;
+
+}
+.btn-div{
+display:flex;
+margin: 10px auto;
+text-align: center;
+justify-content:center;
+color: rgb(169, 77, 84);
+
+}
+.btn-div button{
+margin: 0p;
+color: font-size: 40px;
+font-size:bolder;
+background-color: rgb(6, 240, 53);
+font-weight: bolder;
+}
+.btn-div button:hover{
+    background-color: rgb(222, 115, 9);
+    color:black;
+}
+.result-div{
+border: 1px black solid;
+background-color:whitesmoke;
+}
+
+.result-div h2 {
+color:rgb(240, 5, 5);
+text-align: center;
+padding: 10px;
+font-size: 30px;
+font-weight: bolder;
+}
+.result-div h2:hover{
+
+    background-color: rgb(219, 107, 55);
+    color: black;
+}
+
